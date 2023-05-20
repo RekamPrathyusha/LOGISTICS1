@@ -3,7 +3,7 @@
 
 This is my FRT Internship project....
 
-azure link:https://frtprojectazure.z30.web.core.windows.net/
+azure link:https://prathyusha1.z30.web.core.windows.net/
 
 # Project Statement:
 
